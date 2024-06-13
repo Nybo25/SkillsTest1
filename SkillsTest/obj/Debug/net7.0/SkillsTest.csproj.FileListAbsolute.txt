@@ -1,0 +1,15 @@
+/Users/sebastianhansen/Projects/SkillsTest/bin/Debug/net7.0/SkillsTest
+/Users/sebastianhansen/Projects/SkillsTest/bin/Debug/net7.0/SkillsTest.deps.json
+/Users/sebastianhansen/Projects/SkillsTest/bin/Debug/net7.0/SkillsTest.runtimeconfig.json
+/Users/sebastianhansen/Projects/SkillsTest/bin/Debug/net7.0/SkillsTest.dll
+/Users/sebastianhansen/Projects/SkillsTest/bin/Debug/net7.0/SkillsTest.pdb
+/Users/sebastianhansen/Projects/SkillsTest/obj/Debug/net7.0/SkillsTest.csproj.AssemblyReference.cache
+/Users/sebastianhansen/Projects/SkillsTest/obj/Debug/net7.0/SkillsTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sebastianhansen/Projects/SkillsTest/obj/Debug/net7.0/SkillsTest.AssemblyInfoInputs.cache
+/Users/sebastianhansen/Projects/SkillsTest/obj/Debug/net7.0/SkillsTest.AssemblyInfo.cs
+/Users/sebastianhansen/Projects/SkillsTest/obj/Debug/net7.0/SkillsTest.csproj.CoreCompileInputs.cache
+/Users/sebastianhansen/Projects/SkillsTest/obj/Debug/net7.0/SkillsTest.dll
+/Users/sebastianhansen/Projects/SkillsTest/obj/Debug/net7.0/refint/SkillsTest.dll
+/Users/sebastianhansen/Projects/SkillsTest/obj/Debug/net7.0/SkillsTest.pdb
+/Users/sebastianhansen/Projects/SkillsTest/obj/Debug/net7.0/SkillsTest.genruntimeconfig.cache
+/Users/sebastianhansen/Projects/SkillsTest/obj/Debug/net7.0/ref/SkillsTest.dll
